@@ -21,6 +21,7 @@ A beginner-level Python project related to cell biology classification.
 Skills
 
 - Python
+- Biological Data
 - Problem Solving
 - Programming Fundamentals
 - Basic Data Handling
